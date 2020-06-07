@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-soma-config": {
+      "hosting": {
+        "angular-config": [
+          "ng-soma-config"
+        ]
+      }
+    }
+  }
+}
